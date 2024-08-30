@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Teaches me about cs
 - Teaches me about terminal commands
-- Is run by students who have experience like us students
+- Is run by students who have gone through the same course
 
 1. Numbered
 2. List
